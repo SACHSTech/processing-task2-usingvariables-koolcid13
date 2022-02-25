@@ -10,7 +10,7 @@ public class Sketch extends PApplet {
   
   public void settings() {
     // uses preferred values for height and width of the screen
-    size(200, 400);
+    size(400, 400);
   }
 
   public void setup() {
