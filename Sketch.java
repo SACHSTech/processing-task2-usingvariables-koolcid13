@@ -1,7 +1,7 @@
 import processing.core.PApplet;
 
 /**
-* A program Sketch.java that sketches a simple drawing including a background, a foreground, and multiple shapes that scales proportionally with changes in width and height.
+* A program Sketch.java that sketches a simple drawing including a background, a foreground, and multiple shapes (task 1 project) that scales proportionally with changes in width and height.
 * @author: Avin A.
 *
 */
@@ -9,7 +9,7 @@ import processing.core.PApplet;
 public class Sketch extends PApplet {
 
   // change these values to your preference
-  double dblScreenWid = 790;
+  double dblScreenWid = 500;
   double dblScreenHgt = 400;
   
   public void settings() {
